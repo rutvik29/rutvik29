@@ -47,9 +47,5 @@ I´m Rutvik, Artificial Intelligence and Data Science Student
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rutvik29&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvik29&layout=compact&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rutvik29&theme=gruvbox" />  
-<a href="https://github.com/rutvik29/Android-Room-Database-Backup" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvik29&repo=Android-Room-Database-Backup&theme=gruvbox""></a>
-<a href="https://github.com/rutvik29/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvik29&repo=Stundenplan&theme=gruvbox""></a>
-<a href="https://github.com/rutvik29/traefik-ssl-certificate-exporter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvik29&repo=traefik-ssl-certificate-exporter&theme=gruvbox""></a>
-<a href="https://github.com/rutvik29/logstash-pipelines" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvik29&repo=logstash-pipelines&theme=gruvbox""></a>  
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rutvik29.rutvik29)
