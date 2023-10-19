@@ -1,6 +1,6 @@
 ## Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I´m Rutvik, system administrator in germany bavaria
+I´m Rutvik, Artificial Intelligence and Data Science Student
 
 ## 🚀💻 Technologies & Tools
 
