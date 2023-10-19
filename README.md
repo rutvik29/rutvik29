@@ -1,50 +1,76 @@
-## Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<p align="center"><img src="https://github.com/rutvik29/portfolio/tree/main/header.png" width="1380px" height="180px"></p>
 
-I´m Rutvik, Artificial Intelligence and Data Science Student
+<h2 align="left">Heya 👋, I'm Abhinav</h2>
+<!--Intro Section-->
+<img src="https://github.com/rutvik29/portfolio/tree/main/intro.gif" width="30%" align="right">
 
-## 🚀💻 Technologies & Tools
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rutvik29/portfolio/tree/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Dual Degree Computer Science & Engineering graduate from IIT Kharagpur.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rutvik29/portfolio/tree/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interested in Artificial Intelligence & Software Development.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rutvik29/portfolio/tree/main/icons/dj.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;When not coding, I like to make EDM :metal:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rutvik29/portfolio/tree/main/icons/manu.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;If you are a Manchester United fan, we are already friends. GGMU :) :heart: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rutvik29/portfolio/tree/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my work experience in boring Arial font with font-size 12 [(Resume)](https://abhinavbohra.technology/files/Abhinav_Bohra_Resume.pdf) <br><br>
 
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-  ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
-  ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-  ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
-  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-  
-  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-  ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
-  ![Nextcloud](https://img.shields.io/badge/Nextcloud-0484cc?style=flat-square&logo=nextcloud)
-  ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
-  ![InfluxDB](https://img.shields.io/badge/InfluxDB-black?style=flat-square&logo=influxdb)
-  ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
-  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-  ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
-  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
-  ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash)
-  ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana)
-  ![Icinga2](https://img.shields.io/badge/Icinga2-06062C?style=flat-square&logo=icinga)
-  ![Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go)
-  ![Angular](https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular)
+<!--Skills Section-->
+## My Tech Stack
+<p align="left">
+	<h4> Programming Lanauges</h4><p>
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/c.svg" alt="C" width="40" height="40" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/cpp.svg" alt="C++" width="40" height="40" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" alt="python" width="40" height="40" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/java.svg" alt="java" width="40" height="40" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/javascript.svg" alt="javascript" width="40" height="40" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/mysql.svg" alt="SQL" width="40" height="40" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/git.svg" alt="Git" width="40" height="40" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/uml.svg" alt="UML" width="40" height="40" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/html.svg" alt="HTML" width="40" height="40" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/css.svg" alt="CSS" width="40" height="40" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/bash1.svg" alt="Bash" width="40" height="40" />&nbsp;</p>
+	<h4> Frameworks</h4><p>
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/numpy.svg" alt="Numpy" width="40" height="40" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/pandas.svg" alt="Pandas" width="40" height="40" />&nbsp;	
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/pytorch.png" alt="PyTorch" width="110" height="35" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/pyspark.png" alt="PySpark" width="110" height="50" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/tensorflow-tf.svg" alt="TensorFlow" width="40" height="40" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/keras.svg" alt="Keras" width="40" height="40" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/scikit-learn.svg" alt="Scikit Learn" width="60" height="40" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/django.svg" alt="Django" width="40" height="40" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/flask.svg" alt="Flask" width="40" height="40" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;</p>
+	<h4>Software Packages</h4><p>
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/gitlab.svg" alt="GitLab" width="40" height="40" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/zeppelin.png" alt="Zeppelin" width="40" height="40" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/sagemaker.png" alt="Sagemaker" width="40" height="40" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/netbeans.svg" alt="Netbeans" width="50" height="50" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/eclipse.svg" alt="eclipse" width="40" height="40" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/tableau.svg" alt="Tableau" width="40" height="40" />&nbsp;
+	<img src="https://github.com/rutvik29/portfolio/tree/main/icons/office.svg" alt="Office" width="40" height="40" />&nbsp;</p>
+</p><br>
+<!--Connect Section-->
+<hr>
+<p align="center">
+<i>Let's connect and chat! Open to anything under the sun.</i><br>
+<p align="center">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://linkedin.com/in/abhinav-bohra">
+		<img alt="Abhinav Bohra - LinkedIn" width="42px" src="https://github.com/rutvik29/portfolio/tree/main/icons/linkedin.svg"/>
+	</a>
+	<a href="https://scholar.google.com/citations?user=F51Ct9oAAAAJ&hl=en&oi=ao">
+		<img alt="Abhinav Bohra - Google Scholar" width="42px" src="https://github.com/rutvik29/portfolio/tree/main/icons/google_scholar.svg"/>
+	</a>
+	<a href="mailto:abhinavbohra01@gmail.com">
+		&nbsp;&nbsp;<img alt="Abhinav Bohra - Mail" width="42px" src="https://github.com/rutvik29/portfolio/tree/main/icons/email.svg"/>
+	</a>
+	<a href="https://instagram.com/abhinavbohra01">
+		&nbsp;&nbsp;<img alt="Abhinav Bohra - Instagram" width="42px" src="https://github.com/rutvik29/portfolio/tree/main/icons/ig.svg"/>
+	</a>
+	<a href="https://facebook.com/abhinavbohra01">
+		&nbsp;&nbsp;<img alt="Abhinav Bohra - Facebook" width="42px" src="https://github.com/rutvik29/portfolio/tree/main/icons/fb.svg"/>
+	</a>
+<img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
+</p><br><br>
 
-  ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
-  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
-  ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
-  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
-  ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
-  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
-  ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
+<!-- Profile Views -->
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=abhinav-bohra&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav-bohra" height=21px/></p>
 
-## ⚡ GitHub Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rutvik29&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvik29&layout=compact&count_private=true&theme=gruvbox" />
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rutvik29.rutvik29)
