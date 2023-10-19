@@ -46,6 +46,5 @@ I´m Rutvik, Artificial Intelligence and Data Science Student
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rutvik29&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvik29&layout=compact&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rutvik29&theme=gruvbox" />  
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rutvik29.rutvik29)
