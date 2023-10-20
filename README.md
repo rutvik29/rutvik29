@@ -52,9 +52,6 @@
 	<a href="https://www.linkedin.com/in/rutviktrivedi29">
 		<img alt="Rutvik Trivedi - LinkedIn" width="42px" src="https://github.com/rutvik29/portfolio/blob/main/icons/linkedin.svg"/>
 	</a>
-	<a href="https://scholar.google.com/citations?user=F51Ct9oAAAAJ&hl=en&oi=ao">
-		<img alt="Rutvik Trivedi - Google Scholar" width="42px" src="https://github.com/rutvik29/portfolio/blob/main/icons/google_scholar.svg"/>
-	</a>
 	<a href="mailto:rutviktrivedi123@gmail.com">
 		&nbsp;&nbsp;<img alt="Rutvik Trivedi - Mail" width="42px" src="https://github.com/rutvik29/portfolio/blob/main/icons/email.svg"/>
 	</a>
