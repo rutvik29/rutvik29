@@ -4,7 +4,7 @@
 <!--Intro Section-->
 <img src="https://github.com/rutvik29/portfolio/blob/main/intro.gif" width="30%" align="right">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rutvik29/portfolio/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Dual Degree Computer Science & Engineering graduate from IIT Kharagpur.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rutvik29/portfolio/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Passionate AI and Data Science Student | Seeking Winter 2024 Co-op Opportunities.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rutvik29/portfolio/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interested in Artificial Intelligence & Software Development.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rutvik29/portfolio/blob/main/icons/dj.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;When not coding, I like to make EDM :metal:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rutvik29/portfolio/blob/main/icons/manu.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;If you are a Manchester United fan, we are already friends. GGMU :) :heart: <br>
