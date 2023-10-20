@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rutvik29/portfolio/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Passionate AI and Data Science Student | Seeking Winter 2024 Co-op Opportunities.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rutvik29/portfolio/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interested in Artificial Intelligence & Machine Learning.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rutvik29/portfolio/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my professiona experience &nbsp;&nbsp;[- CV ](https://github.com/rutvik29/portfolio/blob/main/RutvikTrivedi.pdf) <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rutvik29/portfolio/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my professiona experience &nbsp;&nbsp;[CV](https://github.com/rutvik29/portfolio/blob/main/RutvikTrivedi.pdf) <br><br>
 
 <!--Skills Section-->
 ## My Tech Stack
