@@ -32,7 +32,6 @@
 	<img src="https://github.com/rutvik29/portfolio/blob/main/icons/pyspark.png" alt="PySpark" width="110" height="50" />&nbsp;
 	<img src="https://github.com/rutvik29/portfolio/blob/main/icons/tensorflow-tf.svg" alt="TensorFlow" width="40" height="40" />&nbsp;
 	<img src="https://github.com/rutvik29/portfolio/blob/main/icons/keras.svg" alt="Keras" width="40" height="40" />&nbsp;
-	<img src="https://github.com/rutvik29/portfolio/blob/main/icons/scikit-learn.svg" alt="Scikit Learn" width="60" height="40" />&nbsp;
 	<img src="https://github.com/rutvik29/portfolio/blob/main/icons/django.svg" alt="Django" width="40" height="40" />&nbsp;
 	<img src="https://github.com/rutvik29/portfolio/blob/main/icons/flask.svg" alt="Flask" width="40" height="40" />&nbsp;
 	<img src="https://github.com/rutvik29/portfolio/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;</p>
