@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/rutvik29/portfolio/blob/main/header.png" width="1380px" height="180px"></p>
 
-<h2 align="left">Heya 👋, I'm Rutvik</h2>
+<h2 align="left">Hey 👋, I'm Rutvik</h2>
 <!--Intro Section-->
 <img src="https://github.com/rutvik29/portfolio/blob/main/intro.gif" width="30%" align="right">
 
