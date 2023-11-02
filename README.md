@@ -64,4 +64,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutvik29" alt="rutvik29" /></a> </p>
 <!-- Profile Views -->
+<p align="left"><img src="https://komarev.com/ghpvc/?username=rutvik29&label=Profile%20views&color=0e75b6&style=flat" alt="Rutvik Trivedi" height=21px/></p>
 
