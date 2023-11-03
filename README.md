@@ -12,7 +12,7 @@
 ## My Tech Stack
 <p align="left">
   <h4>Languages and Tools</h4>
-<div style="display: flex;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 <img src="https://github.com/rutvik29/portfolio/blob/main/icons/c.svg" alt="C" width="40" height="40" />
 <img src="https://github.com/rutvik29/portfolio/blob/main/icons/cpp.svg" alt="C++" width="40" height="40" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" alt="python" width="40" height="40" />
