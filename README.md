@@ -62,3 +62,9 @@
 <!-- Profile Views -->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rutvik29&label=Profile%20views&color=0e75b6&style=flat" alt="Rutvik Trivedi" height=21px/></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutvik29&show_icons=true&locale=en" alt="rutvik29" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutvik29&" alt="rutvik29" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutvik29&show_icons=true&locale=en&layout=compact" alt="rutvik29" /></p>
+
