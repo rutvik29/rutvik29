@@ -2,7 +2,7 @@
 
 <h2 align="left">Hey 👋, I'm Rutvik</h2>
 <!--Intro Section-->
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rutviktrivedi29" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/rutviktrivedi29?trk=profile-badge">Rutvik Trivedi</a></div>
+
               
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rutvik29/portfolio/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Passionate AI and Data Science Student | Seeking Winter 2024 Co-op Opportunities.<br>
