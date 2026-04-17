@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rutvik Trivedi 👋</h1>
-<h3 align="center">AI/ML Engineer · LLMOps · RAG Architect · Co-Founder @ VisionLeap AI</h3>
+<h3 align="center">AI/ML Engineer · LLMOps · RAG Architect  AI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rutviktrivedi29/" target="_blank">
